@@ -1,0 +1,99 @@
+body{
+
+	font-family: 'Raleway', sans-serif;
+}
+
+header{
+
+
+}
+
+
+.perfil_img{
+
+	display: none;
+}
+
+
+.cabecalho{
+ 	display: flex;
+ 	flex-direction: column;
+ 	align-items: center;
+ 	padding-top: 2rem;
+ 	padding-bottom: 2rem;
+
+}
+
+h1{
+	padding-bottom: 1.5rem;
+	font-size: 2.5rem;
+}
+
+h2{
+
+	font-size: 1.8rem;
+}
+
+.menu{
+
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row-reverse;
+}
+
+.menu_img{
+
+	width: 1.5rem;
+	height: 1.5rem;
+}
+
+.naveg{
+
+display: flex;
+justify-content: space-around;
+list-style: none;
+width: 70%;
+padding-bottom: 3rem;
+	
+}
+
+.naveg_menu_it{
+
+	text-decoration: none;
+}
+
+h3{
+
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+.sobre{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-top: 2rem;
+padding-bottom: 2rem;
+}
+
+.sobre_img{
+	padding-bottom: 2rem; 
+
+}
+
+.social{
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.logo{
+
+	width: 2rem;
+}
+
+.imagem{
+
+	width: 5rem;
+}
